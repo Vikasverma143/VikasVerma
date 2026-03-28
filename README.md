@@ -90,37 +90,117 @@ I'm a passionate *Android Developer* from India, focused on building *modern, sc
 </p>
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📱 TaskFlow
-A task management Android app built using Kotlin and modern Android architecture.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💬 ChatAppDemo
-A demo chat application project using Android and Firebase concepts.
+### 📱 TaskFlow  
+A modern *task management Android app* built using *Kotlin*, focused on clean UI, productivity, and organized workflow.
 
-### 🧾 SmartBill
-Billing and shop management Android app idea for small businesses.
+*✨ Highlights*
+- Task creation and management
+- Clean modern UI
+- Kotlin-based Android architecture
 
-### 🏢 ApartmentMange
-An Android app for apartment / property-related management workflows.
+*🛠 Tech:* 
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-6A1B9A?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML_UI-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
 
----
 
-## 📊 GitHub Stats
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 ChatAppDemo  
+A real-time *chat app demo* designed to explore messaging workflows and user interaction in Android apps.
+
+*✨ Highlights*
+- Chat-style interface
+- Realtime messaging concepts
+- Firebase-based communication flow
+
+*🛠 Tech:* 
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realtime_Chat-0A66C2?style=flat-square&logo=googlemessages&logoColor=white" />
+</p>
+
+
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 SmartBill  
+A practical *billing and invoice Android app* idea for small businesses, focused on bill creation and customer/product handling.
+
+*✨ Highlights*
+- Billing flow
+- Product/customer management
+- PDF/share-ready concept
+
+*🛠 Tech:*
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-6A1B9A?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDF-FF5252?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+</p>
+
+
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 ApartmentMange  
+An Android application for *apartment / property management*, designed to handle modern residential workflow features.
+
+*✨ Highlights*
+- Property-related management flow
+- Organized app structure
+- Scalable Android architecture
+
+*🛠 Tech:*
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML_UI-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaybarade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaybarade&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaybarade&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaybarade&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/XML-Android_UI-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybarade&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
