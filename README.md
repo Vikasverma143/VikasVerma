@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/Vikasverma143">
-    <img src="https://img.shields.io/badge/FOLLOW%20%40_jaybarade-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/FOLLOW%20%40_vikas verma-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vikas-verma-10a547203">
-    <img src="https://img.shields.io/badge/LINKEDIN-JAY%20BARADE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Vikas%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vvarma4466@gmail.com">
     <img src="https://img.shields.io/badge/CONNECT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
